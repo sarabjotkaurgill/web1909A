@@ -1,7 +1,4 @@
 Hello Sarab
-<<<<<<< HEAD
 Apple
-=======
 Oranges
->>>>>>> 310283d002f9eace33e481723eb90cfa855f9396
 Meow
